@@ -159,8 +159,7 @@
         <splash src="res/screen/windows/SplashScreenPhone.scale-240.png" platform="windows"   width="1152" height="1920" />
     </platform>
     <access origin="*"/>
-	<gap:plugin name="org.apache.cordova.file" />
-  
+	
 	<feature name="File">
     		<param name="android-package" value="org.apache.cordova.FileUtils" />
 	</feature>
