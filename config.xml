@@ -30,6 +30,12 @@
     </platform>
     <platform name="winphone">
     </platform>
+	<feature name="File">
+    <param name="android-package" value="org.apache.cordova.FileUtils" />
+</feature>
+<feature name="FileTransfer">
+    <param name="android-package" value="org.apache.cordova.FileTransfer" />
+</feature>
     <platform name="android">
         <access origin="file:///" />
         <allow-intent href="market:*" />
