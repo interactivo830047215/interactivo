@@ -16,6 +16,10 @@
     <author href="http://www.interactivo.com.co" email="desarrollo@interactivo.com.co">
         Camilo Diaz ICC
     </author>
+	
+<preference name='phonegap-version' value='cli-6.5.0' />
+<preference name='pgb-builder-version' value='2' />
+	
 	<allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
